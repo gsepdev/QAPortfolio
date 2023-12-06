@@ -1,4 +1,4 @@
-# QAPortfolio
+# QA Portfolio
 
 
 ![qa portafolio](https://github.com/gsepdev/QAPortfolio/blob/main/QAportfolio.jpg)
