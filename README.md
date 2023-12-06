@@ -1,8 +1,8 @@
 # QAPortfolio
-my personal QA portfolio
+
 
 ![qa portafolio](https://github.com/gsepdev/QAPortfolio/blob/main/QAportfolio.jpg)
-![Settings Window]https://raw.github.com/gsepdev/QAPortfolio/blob/main/QAportfolio.jpg
+
 # QA Portfolio Developed with Streamlit
 
 Welcome to my QA portfolio developed with Streamlit! This project aims to present interactively and attractively a collection of projects related to the field of Quality Assurance (QA).
