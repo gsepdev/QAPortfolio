@@ -1,6 +1,7 @@
 # QAPortfolio
 my personal QA portfolio
-Markdown example ![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![Settings Window]https://raw.github.com/gsepdev/QAPortfolio/blob/main/QAportfolio.jpg
 
