@@ -51,6 +51,6 @@ To explore my portfolio and individual projects, simply click on the respective 
 
 I hope you enjoy exploring my work! 
 
-[Visit my live portfolio](PORTFOLIO_LIVE_URL)
+[Visit my live portfolio](https://qaportfolio.onrender.com/)
 
 
